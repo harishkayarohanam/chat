@@ -18,7 +18,7 @@ To start after doing a git clone
 
 
 
-      http://localhost:8000/?roomname=w
+      http://localhost:3333/?roomname=w
 
 
 
