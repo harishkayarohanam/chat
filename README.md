@@ -1,7 +1,7 @@
-chat
+Chat
 ====
 
-An application to chat . 
+An application to Chat . 
 The application uses Tornado server internally .
 
 
@@ -10,7 +10,7 @@ To start after doing a git clone
 
 1) execute following command
 
-   python Chat_ctf.py
+      python Chat_ctf.py
    
 
 
@@ -18,7 +18,7 @@ To start after doing a git clone
 
 
 
-http://localhost:8000/?roomname=w
+      http://localhost:8000/?roomname=w
 
 
 
