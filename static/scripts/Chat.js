@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
 	document.uid = $('#uid').val();
 	document.roomname = $('#roomname').val(); 
@@ -6,7 +5,7 @@ $(document).ready(function() {
 	setTimeout(openconnection, 100);
 	var box = null;
 	var user = $('#Iam').val();
-    var val = "CTF chat";
+    var val = "Chat Room";
     box = $("#chat_div").chatbox({id:user, 
                                       user:{key : document.uid},
                                       title : val,
