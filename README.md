@@ -1,6 +1,12 @@
 Chat
 ====
 
+Prerequisites : 
+     Install Python  
+     Install Tornado ( follow http://www.tornadoweb.org/en/latest/ )
+     
+
+
 An application to Chat . 
 The application uses Tornado server internally .
 
