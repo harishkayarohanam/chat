@@ -2,6 +2,8 @@ Chat
 ====
 
 Prerequisites : 
+
+
      Install Python  
      Install Tornado ( follow http://www.tornadoweb.org/en/latest/ )
      
