@@ -10,7 +10,7 @@ To start after doing a git clone
 
 1) execute following command
 
-      python Chat_ctf.py
+      python chat.py
    
 
 
